@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+uuid6
+sqlalchemy
+asyncpg
+pycountry
